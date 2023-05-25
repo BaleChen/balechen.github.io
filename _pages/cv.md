@@ -9,53 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version](files/Bale-Chen-CV-Spring-2023.pdf) (Updated April 2023). 
+[PDF version](/files/Bale-Chen-CV-Spring-2023.pdf) (Updated April 2023). 
 
 Education
 ======
-* B.S. in Data Science(AI Track), New York University, 2012
-* <div style="text-align: left;"> B.S. in Data Science(AI Track), New York University</div>
-<div style="text-align: right;">Expected Graduation Time: May 2024</div>
+<p style="text-align:left;">
+    <strong>New York University Shanghai, Shanghai</strong>
+    <span style="float:right;">
+        Expected Graduation Time: May 2024
+    </span>
+</p>
+<p style="text-align:left;">
+    <strong>New York University, New York</strong>
+    <span style="float:right;">
+        January 2023 - May 2023
+    </span>
+</p>
+<p style="text-align:left;">
+    <strong>Major:</strong> Data Science (Artificial Intelligence track) <strong>Minor: Mathematics </strong>
+    <span style="float:right;">
+        Cumulative GPA: 3.96/4.00
+    </span>
+</p>
+		
+Research Experience (Selected)
+======
 
-Work experience
+Professional experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Extracurricular Activities
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Honors & Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
