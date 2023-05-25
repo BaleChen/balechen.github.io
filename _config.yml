@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bale Chen | NYU Shanghai"
+title                    : "Bale Chen"
 title_separator          : "-"
 name                     : &name "Bale Chen"
 description              : &description "personal description"
 url                      : https://balechen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter BaleCcchen
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Bale (Bingsen) Chen 陈丙森"
-  avatar           : "assets/img/avatar.png"
+  avatar           : "avatar.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
