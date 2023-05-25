@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF version](files/Bale-Chen-CV-Spring-2023.pdf) (Updated April 2023). 
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Data Science(AI Track), New York University, 2012
+* <div style="text-align: left;"> B.S. in Data Science(AI Track), New York University</div>
+<div style="text-align: right;">Expected Graduation Time: May 2024</div>
 
 Work experience
 ======
