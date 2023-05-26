@@ -15,5 +15,4 @@ Feel free to reach out to me through email if you are interested in my projects,
 News
 ======
 
-* **[June 2023]** But I don't...
-* **[May 2023]** I wish I have some good news!
+* **[May 2023]** Currently building this website...
