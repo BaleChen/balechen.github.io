@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "More"
-permalink: /projects/
+permalink: /more/
 author_profile: true
 ---
 

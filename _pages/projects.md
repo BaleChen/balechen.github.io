@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+Projects coming soon...
 
 {% for post in site.projects %}
   {% include archive-single.html %}

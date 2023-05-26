@@ -26,7 +26,7 @@ Education
     </span>
 </p>
 <p style="text-align:left;">
-    <strong>Major:</strong> Data Science (Artificial Intelligence track) <strong>Minor: Mathematics </strong>
+    <strong>Major:</strong> Data Science (Artificial Intelligence track) <strong>Minor:</strong> Mathematics 
     <span style="float:right;">
         Cumulative GPA: 3.96/4.00
     </span>
