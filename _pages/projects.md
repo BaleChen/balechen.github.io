@@ -10,7 +10,7 @@ author_profile: true
 Projects coming soon...
 
 {% comment %}
-{% for post in site.projects %}
-  {% include archive-single.html %}
-{% endfor %}
+  {% for post in site.projects %}
+    {% include archive-single.html %}
+  {% endfor %}
 {% endcomment %}

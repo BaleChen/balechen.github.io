@@ -26,7 +26,7 @@ Education
     </span>
 </p>
 <p style="text-align:left;">
-    <strong>Major:</strong> Data Science (Artificial Intelligence track) <strong>Minor:</strong> Mathematics 
+    <strong>Major:</strong> Data Science (Artificial Intelligence track), <strong>Minor:</strong> Mathematics 
     <span style="float:right;">
         Cumulative GPA: 3.96/4.00
     </span>
@@ -37,7 +37,7 @@ Research Experience
 ### **NYU Shanghai Frontiers Science Center of Artificial Intelligence and Deep Learning**
 
 <p style="text-align:left;">
-    <strong><i>Research Assistant</i></strong> (Mentored by Prof. Yik-Cheung Tam)
+    <i>Research Assistant</i> (Mentored by Prof. Yik-Cheung Tam)
     <span style="float:right;">
         05/2023 - Present
     </span>
@@ -47,7 +47,7 @@ Research Experience
 
 ### **Shanghai Key Lab of Urban Design and Urban Science (LOUD)**，Shanghai, China
 <p style="text-align:left;">
-    <strong><i>Research Associate</i></strong> (Part-time)
+    <i>Research Associate</i> (Part-time)
     <span style="float:right;">
         05/2022 - Present
     </span>
@@ -57,14 +57,14 @@ Research Experience
 * Assisted in a water quality remote sensing project by developing a CNN model and processing sensed image data
 * Participated in bi-weekly lab meetings to present recent research progress and help other members with data modeling tasks
 
-See [Projects](https://balechen.github.io/projects/) page for each research project that I have done.
+*See [Projects](https://balechen.github.io/projects/) page for each research project that I have done.
 
 Professional experience
 ======
 
 ### **NYU Shanghai Residential Life**, Shanghai, China
 <p style="text-align:left;">
-    <strong><i>Resident Assistant</i></strong>
+    <i>Resident Assistant</i>
     <span style="float:right;">
         09/2021 - 12/2022
     </span>
@@ -76,7 +76,7 @@ Professional experience
 
 ### **Pingan Bank**, Shanghai, China
 <p style="text-align:left;">
-    <strong><i>Data Analyst Intern</i></strong>
+    <i>Data Analyst Intern</i>
     <span style="float:right;">
         06/2021 – 08/2021
     </span>
@@ -89,13 +89,13 @@ Professional experience
 
 ### **NYU Shanghai Center for Career Development**, Shanghai, China
 <p style="text-align:left;">
-    <strong><i>Student Worker Leader & Senior Student Worker</i></strong>
+    <i>Student Worker Leader & Senior Student Worker</i>
     <span style="float:right;">
         09/2021 – 05/2022
     </span>
 </p>
 <p style="text-align:left;">
-    <strong><i>Junior Student Worker</i></strong>
+    <i>Junior Student Worker</i>
     <span style="float:right;">
         09/2020 – 08/2021
     </span>
@@ -112,7 +112,7 @@ Extracurricular Activities
 <p style="text-align:left;">
     <strong>Technical Writer</strong>, Towards Data Science Medium Publication
     <span style="float:right;">
-        <a href="https://medium.com/@bc3088"> Webpage </a> | 01/2023 – Present
+        <a href="https://medium.com/@bc3088">Webpage</a> | 01/2023 – Present
     </span>
 </p>
 	 
