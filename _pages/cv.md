@@ -168,7 +168,7 @@ Honors & Awards
 </p>
 
 <p style="text-align:left;">
-    <strong>Peng Yachao Global Elite Scholarship</strong>
+    <strong>Peng Yachao Global Elite Scholarship</strong>, NYU Shanghai
     <span style="float:right;">09/2020</span>
 </p>
 
