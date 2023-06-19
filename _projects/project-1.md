@@ -1,6 +1,6 @@
 ---
-title: "Project number 1"
-excerpt: "Short description of project item number 1<br/><img src='/images/500x300.png'>"
+title: "Trash or Treasure: How to Utilize Emojis in Social Media Sentiment Classification"
+excerpt: Research Project "<br/><img src='/images/500x300.png'>"
 collection: projects
 ---
 
