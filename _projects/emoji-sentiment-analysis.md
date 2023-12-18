@@ -1,6 +1,6 @@
 ---
 title: "Trash or Treasure: How to Utilize Emojis in Social Media Sentiment Classification"
-excerpt: Research Project "<br/><img src='/images/Symposium-Poster.jpg'>"
+excerpt: Research Project <br/><img src='/images/Symposium-Poster.jpg'>
 collection: projects
 ---
 
