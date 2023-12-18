@@ -1,6 +1,6 @@
 ---
 title: "Qualitative and Quantitative Analysis of Soft-Actor Critics with REDQ and Reset Mechanism"
-excerpt: CSCI 375 Reinforcement Learning Course Project "<br/><img src='/images/rl-sac-project.png'>"
+excerpt: CSCI 375 Reinforcement Learning Course Project <br/><img src='/images/rl-sac-project.png'>
 collection: projects
 ---
 
