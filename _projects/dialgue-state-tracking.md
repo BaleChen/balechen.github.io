@@ -1,6 +1,6 @@
 ---
 title: "Dialogue State Tracking Using Large Language Models"
-excerpt: Data Science Capstone Research <br/><img src='/images/capstone.png'>
+excerpt: Data Science Capstone Research 
 collection: projects
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Beyond DetectGPT: Towards AI-generated Text Detection in a Black-box Setting"
-excerpt: Course Research Project <br/><img src='/images/detectgpt.jpg'>
+excerpt: Natural Language Understanding and Computational Semantics (Graduate-level) Course Project 
 collection: projects
 ---
 
