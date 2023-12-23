@@ -32,3 +32,4 @@ Check out our previous performances: [Fall 2023 End-of-Semester Show](https://dr
 ## My amazing friends!
 - [Hammond Liu \| 刘浩铭](https://hmdliu.site/)
 - [Xinhao Liu \| 刘歆昊](https://gaaaavin.github.io/)
+- [Qiutong Men \| 门秋彤](https://blog.qmcurtis.me/)

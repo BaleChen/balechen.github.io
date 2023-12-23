@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-Below is a selected list of my project:
+Below is a selected list of my projects:
 
 {% include base_path %}
 
