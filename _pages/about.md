@@ -13,5 +13,5 @@ Hi! I am an incoming CS PhD student at [NYU Courant](https://cims.nyu.edu/dynami
 News
 ======
 
-* [March 2024] I am attending NAACL 2024 to present our work on [Prolog-augmented Arithmetic Reasoning with LLMs](https://arxiv.org/abs/2405.17893) in collaboration with Xiaocheng Yang and Professor Wilson Tam!
+* **[March 2024]** I am attending NAACL 2024 to present our work on [](https://arxiv.org/abs/2405.17893) in collaboration with Xiaocheng Yang and Professor Wilson Tam!
 
