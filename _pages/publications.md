@@ -11,10 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-Publication coming soon...
-
-{% comment %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endcomment %}
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
