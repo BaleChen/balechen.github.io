@@ -83,10 +83,10 @@ author:
   name             : "Bale Chen"
   avatar           : "avatar.png"
   cn_name          : "Also: 陈丙森 (Chen Bing Sen)"
-  bio              : "PhD student at NYU \n NLP Researcher"
+  bio              : "PhD student at NYU
+  NLP Researcher"
   location         : "Shanghai, China"
   employer         : 
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :  "bale.chen@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
