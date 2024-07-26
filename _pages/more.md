@@ -6,11 +6,11 @@ author_profile: true
 ---
 ## AI Interest Group
 
-At NYU Shanghai, I co-founded the AI Interest Group with Margaret Mao, Yuxuan Xia, and Xinqi Zou. We have successfully held many workshops and seminars in from 2023 to 2024. You can find the materials from past events [here](https://drive.google.com/drive/folders/1zlYKYDaf0lSpnKC3JH_vL7ORAkdoO05X?usp=sharing). I am not  If you would like to join our group, please sign up for the mailing list [here](https://docs.google.com/forms/d/e/1FAIpQLSf3CvMgE_2UGC6suhIov9IiJHZYjYaCphXNVPxXrwlsXX3tFQ/viewform). 
+At NYU Shanghai, I co-founded the AI Interest Group with Margaret Mao, Yuxuan Xia, and Xinqi Zou. We have successfully held many workshops and seminars in from 2023 to 2024. Yet, I am not actively managing this group anymore. If you are interested, please sign up for the mailing list throught [this form](https://docs.google.com/forms/d/e/1FAIpQLSf3CvMgE_2UGC6suhIov9IiJHZYjYaCphXNVPxXrwlsXX3tFQ/viewform) and get in touch with the current admin board memebers.
 
 ## Vocal Performance
 
-I have been a bass singer in NYU Shanghai's *Octave Fusion* A Cappella Choir for almost 3 years. My vocal range is B1 (which is probably what got me recruited) - D5. Below is my lovely A Cappella family!
+I have been a bass singer in NYU Shanghai's *Octave Fusion* A Cappella Choir for almost 3 years. My vocal range is B1 (which is probably what got me recruited) - D4. Below is my lovely A Cappella family!
 
 <div style="display: flex;">
     <img src="/images/aca_fall21.jpg" alt="Fall 2021" style="flex: 1; max-width: 48%; margin-right: 2%;" />
