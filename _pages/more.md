@@ -18,14 +18,13 @@ I have been a bass singer in NYU Shanghai's *Octave Fusion* A Cappella Choir for
 </div>
 
 <br>
-Check out our previous performances: [Fall 2023 End-of-Semester Show](https://drive.google.com/drive/folders/1bzEY2tk6RVHx58Ca9bNU3KC5m5gs0T-E?usp=drive_link), [Instagram Archive](https://www.instagram.com/singinginshanghai/).
+Check out our previous performances: [Instagram Archive](https://www.instagram.com/singinginshanghai/).
 
 ## Other Interests
 
+- Bouldering
 - Trekking and hiking
 - Soccer
-- Bouldering
-- Fitness training and physical therapy
 <!-- Others: Trekking/Hiking, Bouldering, Gym, Physical Therapy -->
 
 ## My amazing friends!
