@@ -10,11 +10,11 @@ redirect_from:
 
 Hi! I am a first-year CS PhD student jointly at [NYU Courant](https://cims.nyu.edu/dynamic/) and [NYU Shanghai](https://shanghai.nyu.edu), mentored by Professor [Chen Zhao](http://www.chenz.umiacs.io/). Previously, I received my B.S. degree in Data Science (AI track) from NYU Shanghai, where I was advised by Professor [Wilson Tam](https://shanghai.nyu.edu/academics/faculty/directory/yik-cheung-wilson-tam) and Professor [Mathieu Lauriere](https://mlauriere.github.io/). My primary research interests are in Natural Language Processing and Deep Learning. Here are some topics that I have been thinking lately:
 
-1. How can we empower reasoning models with retrieval capabilities, so that they can reliably solve complex real-world tasks that are knowledge and reasoning-intensive?
+1. How to best empower reasoning models with the retrieval ability, so that they can reliably solve complex real-world tasks (e.g. Deep Researh-style report generation, context conflict resolution) that involves knowledge-intensive reasoning?
 2. Can we automate the [error characterization](http://duboue.net/blog37.html) process of LLM's highly complex reasoning chains, or long-form generation in general? Given a set of predictions, can LLM accurately induce and summarize what the error patterns are?
-3. I am always fasinated by those smart decoding strategies and embedding learning methods!
+3. I am always fasinated by novel and smart decoding strategies and embedding learning methods!
 
-If you have any thoughts on any of these, shoot me an email and I am more than happy to chat with you!
+If you have any thoughts on these, shoot me an email and I am more than happy to chat with you!
 
 News
 ======

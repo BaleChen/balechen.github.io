@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## AI Interest Group
 
-At NYU Shanghai, I co-founded the AI Interest Group with Margaret Mao, Yuxuan Xia, and Xinqi Zou. We have successfully held many workshops and seminars in from 2023 to 2024. Yet, I am not actively managing this group anymore. If you are interested, please visit [here](https://github.com/NYUSH-AIIG) and get in touch with the current admin board memebers.
+At NYU Shanghai, I co-founded the AI Interest Group with Margaret Mao, Yuxuan Xia, and Xinqi Zou. We have successfully held many workshops and seminars in from 2023 to 2024. Yet, I am not actively managing this group anymore. If you are interested, please visit [here](https://github.com/NYUSH-AIIG) and get in touch with the current admin board members.
 
 ## Vocal Performance
 
