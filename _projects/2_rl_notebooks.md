@@ -1,6 +1,6 @@
 ---
-title: "Demo Notebooks for CSCI 375 Reinforcement Learning"
-excerpt: Course Assistantship for the Reinforcement Learning course
+title: "Demo Notebooks for CSCI-SHU 375 Reinforcement Learning"
+excerpt: Course Assistantship
 collection: projects
 ---
 
