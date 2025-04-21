@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a first-year CS PhD student jointly at [NYU Courant](https://cims.nyu.edu/dynamic/) and [NYU Shanghai](https://shanghai.nyu.edu), mentored by Professor [Chen Zhao](http://www.chenz.umiacs.io/). Previously, I received my B.S. degree in Data Science (AI track) from NYU Shanghai, where I was advised by Professor [Wilson Tam](https://shanghai.nyu.edu/academics/faculty/directory/yik-cheung-wilson-tam) and Professor [Mathieu Lauriere](https://mlauriere.github.io/). My primary research interests are in Natural Language Processing and Deep Learning. Here are some topics that I have been thinking lately:
+Hi! I am a first-year CS PhD student jointly at [NYU Courant](https://cims.nyu.edu/dynamic/) and [NYU Shanghai](https://shanghai.nyu.edu), mentored by Professor [Chen Zhao](http://www.chenz.umiacs.io/). Previously, I received my B.S. degree in Data Science (AI track) from NYU Shanghai, where I was advised by Professor [Wilson Tam](https://shanghai.nyu.edu/academics/faculty/directory/yik-cheung-wilson-tam) and Professor [Mathieu Lauriere](https://mlauriere.github.io/). My primary research interests are in Natural Language Processing and Deep Learning. Here are some topics that I have been thinking about lately:
 
 1. How to best empower reasoning models with the retrieval ability, so that they can reliably solve complex real-world tasks (e.g. Deep Researh-style report generation, context conflict resolution) that involves knowledge-intensive reasoning?
 2. Can we automate the [error characterization](http://duboue.net/blog37.html) process of LLM's highly complex reasoning chains, or long-form generation in general? Given a set of predictions, can LLM accurately induce and summarize what the error patterns are?
