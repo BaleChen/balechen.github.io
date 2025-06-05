@@ -20,6 +20,7 @@ News
 ======
 
 * **[May 2025]** I am joining AWS Bedrock as an Applied Science intern this summer, working on explanability of agents.
+* **[May 2025]** Our paper on multi-answer QA is accepted to ACL 2025 Findings. Check it out [here](https://arxiv.org/abs/2506.00425)!
 * **[October 2024]** I will be attending COLM at Penn.
 * **[September 2024]** Starting my PhD at NYU Courant and NYU Shanghai! 
 * **[March 2024]** I am attending NAACL 2024 to present our work [ProPer](https://arxiv.org/abs/2405.17893) in collaboration with Xiaocheng Yang and Professor Wilson Tam!

@@ -18,7 +18,7 @@ I have been a bass singer in NYU Shanghai's *Octave Fusion* A Cappella Choir for
 </div>
 
 <br>
-Check out our previous performances: [Instagram Archive](https://www.instagram.com/singinginshanghai/).
+Check out our previous performances: [Instagram Archive](https://www.instagram.com/octave_fusion/).
 
 ## Other Interests
 
