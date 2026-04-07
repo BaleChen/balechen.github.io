@@ -19,6 +19,7 @@ If you have any thoughts on these, shoot me an email and I am more than happy to
 News
 ======
 
+* **[April 2026]** [Mr Dre](https://arxiv.org/abs/2601.13217) is accepted to ACL 2026! See you in San Diego!
 * **[February 2026]** Check out [LLaDA 2.1](https://arxiv.org/abs/2602.08676), large-scale diffusion language models with token editing abilities! Glad to have contributed to the on-policy SFT and editing-specific training strategies.
 * **[January 2026]** We release an evaluation suite for multi-turn Deep Research report writing, *Mr Dre*. Check out our [paper](https://arxiv.org/abs/2601.13217) and [code](https://github.com/BaleChen/Mr-Dre)!
 * **[December 2025]** I am joining [Ant Research Center](https://www.antresearch.com/) as a Research Intern to work on LLaDA post-training.
