@@ -1,0 +1,14 @@
+<article class="publication-entry">
+  <h2 class="publication-entry__title">
+    <a href="{{ post.paper_url }}">{{ post.title }}</a>
+  </h2>
+  <p class="publication-entry__authors">{{ post.authors | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+  <p class="publication-entry__meta">
+    <span class="publication-entry__venue">{{ post.venue }}</span>
+    {% if post.award %}<span class="publication-entry__award">{{ post.award }}</span>{% endif %}
+  </p>
+  <p class="publication-entry__links">
+    {% if post.paper_url %}<a href="{{ post.paper_url }}">Paper</a>{% endif %}
+    {% if post.code_url %}<a href="{{ post.code_url }}">Code</a>{% endif %}
+  </p>
+</article>

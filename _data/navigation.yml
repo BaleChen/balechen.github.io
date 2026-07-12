@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Selected Publications"
     url: /publications/
 
   # - title: "Talks"
@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
 
   - title: "CV"
-    url: /files/PhD_CV_0226website.pdf
+    url: /files/PhD_CV.pdf
 
   - title: "More"
     url: /more/

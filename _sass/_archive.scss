@@ -243,3 +243,77 @@
     }
   }
 }
+
+
+/*
+   Publication entries (Publications page)
+   ========================================================================== */
+
+.publication-scholar-note {
+  color: $gray;
+  font-size: $type-size-6;
+  margin-bottom: 2em;
+}
+
+.publication-entry {
+  margin-bottom: 1.5em;
+  padding-bottom: 1.5em;
+  border-bottom: 1px solid $border-color;
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  p {
+    margin: 0 0 0.25em;
+  }
+
+  .publication-entry__title {
+    margin: 0 0 0.3em;
+    font-size: $type-size-4;
+    line-height: 1.35;
+
+    a {
+      color: $dark-gray;
+      text-decoration: none;
+
+      &:hover {
+        color: #51adc8;
+      }
+    }
+  }
+
+  .publication-entry__authors {
+    color: $gray;
+    font-size: $type-size-5;
+  }
+
+  .publication-entry__meta {
+    font-size: $type-size-6;
+    color: $gray;
+    font-style: italic;
+  }
+
+  .publication-entry__award {
+    font-style: normal;
+    font-weight: bold;
+    color: #c0392b;
+    margin-left: 0.75em;
+
+    &::before {
+      content: "🏆 ";
+    }
+  }
+
+  .publication-entry__links a {
+    font-size: $type-size-6;
+    font-weight: bold;
+    color: #51adc8;
+    text-decoration: none;
+    margin-right: 1em;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
